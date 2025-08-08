@@ -25,12 +25,3 @@ It showcases my skills, projects, and contact information in a visually appealin
 - **JavaScript (ES6)** – Interactivity and dynamic content.
 
 ---
-
-## 📂 Folder Structure
-```bash
-.
-├── index.html          # Main HTML file
-├── style.css           # Main stylesheet
-├── script.js           # JavaScript functionality
-├── assets/             # Images, icons, and other media
-└── README.md           # Project documentation
